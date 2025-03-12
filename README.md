@@ -41,9 +41,11 @@ O código do projeto está disponível no arquivo [greenhouse_temperature_contro
 
 ## Como Simular
 
-1. Acesse o Tinkercad do projeto  [AQUI](https://www.tinkercad.com/things/lyOS5ZWeyzv-greenhouse-temperature-controller?sharecode=lF4ty4eWetJtnuSmc7wYKxi4kZqiwWzG7DvOnNEwfwo).
+1. Acesse o Tinkercad do projeto <a href="https://www.tinkercad.com/things/lyOS5ZWeyzv-greenhouse-temperature-controller?sharecode=lF4ty4eWetJtnuSmc7wYKxi4kZqiwWzG7DvOnNEwfwo" target="_blank">AQUI</a>.
 2. Abra o circuito e o código no Tinkercad.
 3. Ajuste manualmente o valor do sensor de temperatura para testar diferentes cenários.
+
+
 
 ## Links Úteis
 
