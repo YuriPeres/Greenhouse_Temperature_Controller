@@ -1,0 +1,11 @@
+﻿Nome,Quantidade,Componente
+"TMotor_Driver",1," Transistor NPN (BJT)"
+"DMotor_Protection_Diode",1," Diodo"
+"UArduino_Controller",1," Arduino Uno R3"
+"UTemp_Sensor",1," Sensor de temperatura [TMP36]"
+"MCooling_Fan",1," Motor CC"
+"DWarning_LED",1,"Vermelho LED"
+"PIEZOAlarm_Buzzer",1," Piezo"
+"RLED_Resistor",1,"220 Ω Resistor"
+"RTransistor_Resistor",1,"1 kΩ Resistor"
+"PExternal_Power_Supply",1,"5 , 5  Fonte de energia"
